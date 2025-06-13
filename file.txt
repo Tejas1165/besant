@@ -1,4 +1,2 @@
 myfile
 second line added
-
-new commit
