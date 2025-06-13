@@ -1,4 +1,4 @@
 myfile
 second line added
-
+3rd line added
 new commit
